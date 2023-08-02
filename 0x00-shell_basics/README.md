@@ -32,3 +32,4 @@
 
 You can assume that the directory /tmp/u will exist when we will run your script.
 
+101-clean_emacs: a script that deletes all files in the current working directory that end with the character ~
