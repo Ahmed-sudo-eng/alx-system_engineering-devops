@@ -44,3 +44,5 @@ a command that lists all the files and directories of the current directory, sep
     Only digits and letters are used to sort; Digits should come first
     You can assume that all the files we will test with will have at least one letter or one digit
     The listing should end with a new line
+
+school.mgc: a magic file used by file command to detetct the school type file.
