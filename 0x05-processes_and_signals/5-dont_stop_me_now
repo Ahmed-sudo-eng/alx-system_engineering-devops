@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This script stops 4-to_infinity_and_beyond process
+pid=`pgrep -t pts/0 bash`
+kill -SIGTERM $pid
