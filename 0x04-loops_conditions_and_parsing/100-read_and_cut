@@ -1,4 +1,3 @@
 #!/usr/bin/env bash
 # This script displays the content of the file /etc/passwd as username:id:home
 
-cut -d ":" -f 1,3,6 < /etc/passwd
