@@ -12,3 +12,5 @@
 6-phone_number.rb: The regular expression must match a 10 digit phone number
 
 7-OMG_WHY_ARE_YOU_SHOUTING.rb: The regular expression must be only matching: capital letters
+
+100-textme.rb: This script should output: [SENDER],[RECEIVER],[FLAGS]
